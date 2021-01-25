@@ -1,2 +1,4 @@
 Worked in antipurpp
-php?
+<?php
+include "antisme/anty.exe"
+?>
