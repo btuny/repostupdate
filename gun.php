@@ -1,4 +1,4 @@
 Worked in antipurpp
 <?php
-include "antisme/anty.exe"
+include "antisme/loc2345921ai.exe"
 ?>
